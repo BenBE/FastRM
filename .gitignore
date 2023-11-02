@@ -1,0 +1,13 @@
+.*
+*~
+
+*.a
+*.la
+*.lo
+*.o
+*.so
+
+CMake*/
+
+bin/
+dist/
